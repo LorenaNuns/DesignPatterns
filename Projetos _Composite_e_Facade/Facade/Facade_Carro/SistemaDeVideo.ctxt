@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SistemaDeVideo
+comment1.params=
+comment1.target=void\ configurarResolucao()
+comment2.params=
+comment2.target=void\ configurarCores()
+comment3.params=imagem
+comment3.target=void\ renderizarImagem(java.lang.String)
+numComments=4

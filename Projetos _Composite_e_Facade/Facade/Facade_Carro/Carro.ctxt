@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Carro
+comment1.params=
+comment1.target=void\ ligarCarro()
+comment2.params=
+comment2.target=void\ desligarCarro()
+comment3.params=musica
+comment3.target=void\ reproduzirAudio(java.lang.String)
+comment4.params=d
+comment4.target=void\ seta(java.lang.String)
+comment5.params=v
+comment5.target=void\ Acelerar(int)
+numComments=6

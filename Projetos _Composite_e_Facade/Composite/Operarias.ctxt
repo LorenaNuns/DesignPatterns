@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Operarias
+comment1.params=
+comment1.target=int\ getCor()
+comment2.params=limpadora
+comment2.target=void\ LimparAlveolos(Abelha)
+comment3.params=cozinheira
+comment3.target=void\ AlimentarLarvas(Abelha)
+comment4.params=produtora
+comment4.target=void\ ProduzirCera(Abelha)
+comment5.params=protetora
+comment5.target=void\ ProtegerColmeia(Abelha)
+comment6.params=coletora
+comment6.target=void\ ColetarAlimentos(Abelha)
+comment7.params=
+comment7.target=void\ Alimentar()
+comment8.params=
+comment8.target=void\ Voar()
+comment9.params=
+comment9.target=void\ Reproduzir()
+numComments=10

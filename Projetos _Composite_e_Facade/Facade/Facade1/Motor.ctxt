@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Motor
+comment1.params=
+comment1.target=boolean\ getMt()
+comment2.params=m
+comment2.target=void\ setMt(boolean)
+numComments=3

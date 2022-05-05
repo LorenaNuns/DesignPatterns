@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SistemaDeInput
+comment1.params=
+comment1.target=void\ configurarTeclado()
+comment2.params=
+comment2.target=void\ configurarJoystick()
+comment3.params=
+comment3.target=void\ lerInput()
+numComments=4

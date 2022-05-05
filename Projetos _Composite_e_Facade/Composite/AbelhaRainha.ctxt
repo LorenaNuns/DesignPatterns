@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AbelhaRainha
+comment1.params=
+comment1.target=int\ getCor()
+comment2.params=
+comment2.target=void\ Alimentar()
+comment3.params=
+comment3.target=void\ Voar()
+comment4.params=
+comment4.target=void\ Reproduzir()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

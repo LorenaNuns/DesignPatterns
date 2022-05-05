@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SistemasFacade
+comment1.params=
+comment1.target=void\ inicializarSubsistemas()
+comment2.params=arquivo
+comment2.target=void\ reproduzirAudio(java.lang.String)
+comment3.params=imagem
+comment3.target=void\ renderizarImagem(java.lang.String)
+comment4.params=
+comment4.target=void\ lerInput()
+numComments=5
